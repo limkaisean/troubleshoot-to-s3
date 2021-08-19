@@ -17,4 +17,4 @@ AWS_SECRET_ACCESS_KEY=your_secret_key
 ```
 3. Run `docker-compose up` to start up the container.
 
-4. Head towards `http://127.0.0.1:5000/`.
+4. Server should be up on `http://127.0.0.1:5000/`.
